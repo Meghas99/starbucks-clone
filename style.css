@@ -1,0 +1,268 @@
+.first{
+    display: flex;
+    height: 80%;
+    width: 200px;
+
+}
+.second{
+    display: flex;
+    margin-top: 20px;
+     
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+ 
+
+.img-star{
+    width: 100px;
+    height: 50px;
+
+}
+.img-loc{
+    align-items: flex-end;
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+}
+.button1{
+    border-radius: 25px;
+    border-width: 1px;
+    width: 85px;
+    height: 35px;
+}
+.button2{
+    background-color: black;
+    border-radius: 25px;
+    color: white;
+    width: 85px;
+    height: 35px;
+
+}.star-main-bk{
+    max-width: 100%;
+    height: 625px;
+    display: flex;
+    background-color:#1e3932 ;
+    
+
+  
+
+
+}.star-main-bk-text{
+
+   color: white;
+    /* flex-direction: column; */
+    /* align-content: center; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    
+     text-align:justify ;
+   margin-top: 200px;
+   margin-left: 100px;
+     text-align: center;
+     letter-spacing: 2px;
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+
+
+}.star-main-bk-text h1{
+    font-size: 40px;
+}.star-main-bk-text p{
+    font-size: 22px;
+    font-family: Helvetica, sans-serif;
+}
+.newbutton{
+    background-color: #1e3932;
+    border-radius: 30px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-color: azure;
+}
+
+
+
+.fourth{
+    max-width: 100%;
+    height: 625px;
+    display: flex;
+    background-color:#d50032;
+}
+.fourth-text{
+
+    color: white;
+     text-align:justify ;
+    margin-top: 100px;
+    margin-left: 100px;
+      text-align: center;
+      letter-spacing: 2px;
+     font-family: Helvetica, sans-serif;
+     font-size: 40px;
+}
+.fourth-text h1{
+    font-size: 50px;
+}.fourth-text p{
+    font-size: 22px;
+    font-family: Helvetica, sans-serif;
+}
+.newbutton1{
+    background-color: #d50032;
+    border-radius: 30px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-color: azure;
+}
+
+
+.fifth{
+    max-width: 100%;
+    height: 625px;
+    display: flex;
+    background-color:#00b388;
+}
+.fifth-text{
+
+    color: white;
+     text-align:justify ;
+    margin-top: 100px;
+    margin-left: 100px;
+      text-align: center;
+      letter-spacing: 2px;
+     font-family: Helvetica, sans-serif;
+     font-size: 40px;
+}
+.fifth-text h1{
+    font-size: 50px;
+}.fifth-text p{
+    font-size: 22px;
+    font-family: Helvetica, sans-serif;
+}
+.newbutton2{
+    background-color: #00b388;
+    border-radius: 30px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-color: azure;
+}
+
+.sixth{
+    max-width: 100%;
+    height: 525px;
+    display: flex;
+    background-color:#006241;
+}
+.sixth-text{
+
+    color: white;
+     text-align:justify ;
+    margin-top: 100px;
+    margin-left: 100px;
+      text-align: center;
+      letter-spacing: 2px;
+     font-family: Helvetica, sans-serif;
+     font-size: 40px;
+}
+.sixth-text h1{
+    font-size: 24px;
+}.sixth-text p{
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+}
+.newbutton3{
+    background-color: #006241;
+    border-radius: 30px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-color: azure;
+}
+
+
+.seventh{
+    max-width: 100%;
+    height: 525px;
+    display: flex;
+    background-color:#1e3932;
+}
+.seventh-text{
+
+    color: white;
+     text-align:justify ;
+    margin-top: 100px;
+    margin-left: 100px;
+      text-align: center;
+      letter-spacing: 2px;
+     font-family: Helvetica, sans-serif;
+     font-size: 40px;
+     text-align: center;
+}
+.seventh-text h1{
+    font-size: 25px;
+}.seventh-text p{
+    font-size: 17px;
+    font-family: Helvetica, sans-serif;
+}
+.newbutton4{
+    background-color: #1e3932;
+    border-radius: 30px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-color: azure;
+}
+
+ .eight-text p{
+    padding-top: 4%;
+   padding-left: 10%;
+   font-family: Helvetica, sans-serif;
+   text-align: center;
+ }
+
+ .ninth-text p{
+    padding-top: 3%;
+   padding-left: 37%;
+   font-family: Helvetica, sans-serif;
+ }
+
+ .tenth-text p{
+    padding-top: 3%;
+   padding-left: 37%;
+     font-family: Helvetica, sans-serif;
+ }
+ .foot{
+    font-family: Helvetica, sans-serif;
+ text-decoration: none;
+ display: flex;
+    justify-content: space-between;
+    list-style: none;
+ }
+  
+ .dot{
+        list-style: none;
+
+ }
+ .img-fifth{
+    width: 776px;
+    height: 525px;
+
+ }
+
+
+
+
+ .images{
+    height: 50px;
+    width: 50px;
+    padding-left: 5px;
+     
+    margin-top: 20px;
+}
+ 
+.imagelist{
+    display: flex;
+    list-style: none;
+
+}
